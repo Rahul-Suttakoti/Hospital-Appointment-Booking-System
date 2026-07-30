@@ -1,0 +1,9 @@
+DSA Assignment Questions
+
+LAB-1
+
+1. Find the sum of all node in a list
+2. Find the sum of alternate nodes in a list
+3.Search a given node a list and delete
+4.check for palindrome - Double linked list(Use two pointers not more , only one loop)
+5.To represent the polynomial using single linked list(or doubly)
